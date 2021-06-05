@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68fc2ed5-435a-4edd-8198-a262e87a6f8d" name="Default Changelist" comment="add echo" />
+    <list default="true" id="68fc2ed5-435a-4edd-8198-a262e87a6f8d" name="Default Changelist" comment="добавила описание задания" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +35,7 @@
       <option name="presentableId" value="Default" />
       <updated>1622906985475</updated>
       <workItem from="1622906986922" duration="1063000" />
-      <workItem from="1622908367665" duration="333000" />
+      <workItem from="1622908367665" duration="980000" />
     </task>
     <task id="LOCAL-00001" summary="add echo">
       <created>1622907816084</created>
